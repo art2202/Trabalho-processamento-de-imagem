@@ -3,7 +3,7 @@
 # Como instalar
 
 ## Para instalar o opencv use o seguinte comando:
-pip install --force-reinstall --no-cache -U opencv-python==4.5.5.62 // instalar opencv com esse comando
+pip install --force-reinstall --no-cache -U opencv-python==4.5.5.62
 
 ## Em seguida, baixe o tesseract desse link, escolha versao de 32bits ou 64 bits 
 https://github.com/UB-Mannheim/tesseract/wiki
